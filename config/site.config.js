@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "Spencer's OneDrive",
+  title: "YingChuan's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/share',
@@ -42,10 +42,10 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/🎥影音娱乐/👨‍🎓哲理'],
+  protectedRoutes: ['/🎥影音娱乐/👨‍🎓哲理','/🏫教程详解','/📄文本文档'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'guig@zrxz.onmicrosoft.com',
+  email: 'yingchuan027@gmail.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/yingchuan107',
     },
   ],
 
